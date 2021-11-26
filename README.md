@@ -8,13 +8,13 @@ This was a project for the MIT xPRO Professional Certificate in Coding: Full Sta
 
 After the project is on your computer, run ’npm install’ to get all the dependancies for this project.
 
-To create a MongoDB database instance with docker, run the following: 
+To create a MongoDB database instance with docker, run the following:  
 docker run -p 27017:27017 -name bank-app -d mongo
 
-Start the Express server, run the following:
+Start the Express server, run the following:  
 npm start
 
-Use the web browser to navigate to this URL:
+Use the web browser to navigate to this URL:  
 http://localhost:3000
 
 ## Screen Capture
@@ -22,14 +22,14 @@ http://localhost:3000
 
 
 ## Technology used:
-HTML
-CSS
-Javascript
-React
-Express
-Node.js
-Docker
-MongoDB
+HTML  
+CSS  
+Javascript  
+React  
+Express  
+Node.js  
+Docker  
+MongoDB  
 
 ## Features
 This app features inserting, reading, and updating data in a MongoDB database.
